@@ -13,3 +13,6 @@ yarn add lodash
 yarn add react-toastify
 yarn add formik yup
 yarn add react-dropzone
+yarn add react-spring
+
+sandinocarros5012@gmail.com
